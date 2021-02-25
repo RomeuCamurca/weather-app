@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
+## Demonstration:
+
+![](captured.gif)
+
 ## KEY API configuration required:
 
 To execute this project correctly, you will need an API KEY from the OpenWeather api.
@@ -22,7 +26,7 @@ after this configuration is done, just follow the remaining steps to run the app
 
 for example:
 
-(npm install) to install the dependencies and ng serve to execute the project.
+(npm install) to install the dependencies and (ng serve) to execute the project.
 
 ## Development server
 
