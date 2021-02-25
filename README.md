@@ -2,6 +2,28 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
+## KEY API configuration required:
+
+To execute this project correctly, you will need an API KEY from the OpenWeather api.
+
+Api website: https://openweathermap.org/
+
+Register an account, already logged into your account, you can obtain the API KEY from the api website.
+
+after obtaining the KEY API, edit the environment files present in the path ./src/environments/
+
+therefore edit:
+
+environment.ts and environment.prod.ts
+
+add your AKI KEY where indicated.
+
+after this configuration is done, just follow the remaining steps to run the application.
+
+for example:
+
+(npm install) to install the dependencies and ng serve to execute the project.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
